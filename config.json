@@ -1,0 +1,206 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000001",
+            "lang-select-color": "#222829",
+            "bg-light": "#000001",
+            "welcome-bonus-bg": "#000001",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#343435",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#000000",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#bda07f",
+            "yellow": "#bda07f",
+            "yellow-button": "#CD2D26",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#bda07f",
+            "faq-label": "#cd2d26",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#ffea00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6656"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6660",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino De Divonne-Les-Bains"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6659",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino De Divonne-Les-Bains"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino De Divonne-Les-Bains",
+                    "title": "Casino de Divonne-les-Bains au Domaine de Divonne",
+                    "description": "Découvrez notre Casino de Divonne-les-Bains entièrement rénové au Domaine de Divonne avec 210 machines à sous, des jeux de table électroniques et traditionnels, des tournois de poker réguliers, le restaurant La Coupole, ainsi qu’un hôtel, un golf et des espaces bien-être sur place.",
+                    "canonical": "casino-divonne-les-bains.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6661",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-divonne-les-bains.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6662"
+                },
+                "hero": {
+                    "title": "Découvrez l’expérience rénovée de notre Casino de Divonne-les-Bains",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6663",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6664",
+                    "mobileImageSizeModifier": -2,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Destination de jeu rénovée depuis novembre 2024",
+                        "Entrée gratuite pour les clients adultes",
+                        "210 machines à sous et roulette",
+                        "Restaurant La Coupole au style Art déco",
+                        "Hôtel, golf et bien-être sur place"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino De Divonne-Les-Bains App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6665",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino De Divonne-Les-Bains App",
+                    "mobileGooglePlayImageTitle": "Casino De Divonne-Les-Bains App",
+                    "mobileIosImageTitle": "Casino De Divonne-Les-Bains App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "First paragraph of history",
+                        "items": [
+                            "Nous avons rouvert dans un cadre entièrement rénové le 8 novembre 2024",
+                            "Notre restaurant La Coupole propose près de 100 couverts",
+                            "Notre Domaine comprend un hôtel de 133 chambres et un golf 18 trous"
+                        ],
+                        "description2": "Au Casino de Divonne-les-Bains, nous accueillons nos clients dans un cadre entièrement rénové et rouvert depuis le 8 novembre 2024. Nos espaces repensés ont été conçus pour offrir une expérience moderne et raffinée tout en respectant le patrimoine historique du bâtiment, créant ainsi une destination de jeu distinctive dans la région du Léman.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6666",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Casino De Divonne-Les-Bains",
+                        "description3": "Notre casino est situé au Domaine de Divonne, Avenue des Thermes, 01220 Divonne-les-Bains. Nous bénéficions d’un emplacement central en ville, à proximité de l’établissement thermal, près de la frontière suisse et du lac Léman, et l’ensemble du Domaine de Divonne se trouve à environ 15 minutes de l’aéroport international de Genève.\n\nNotre offre de jeux réunit ampleur et variété pour nos clients. Nous proposons 210 machines à sous, 40 postes de roulette électronique, 7 roulettes anglaises, 3 tables de Black Jack, 1 table d’Ultimate Poker et 3 tables de poker dédiées à l’Ultimate Texas Hold’em, au Texas Hold’em cash game et à l’Omaha Poker. Nous organisons également régulièrement des tournois de poker et des animations.\n\nNous complétons l’expérience de jeu par une offre de restauration et des équipements de type resort. Notre nouveau restaurant La Coupole, inspiré de l’esprit Art déco, accueille nos clients dans une atmosphère sophistiquée et propose près de 100 couverts, tandis que le Domaine de Divonne comprend également un hôtel 4 étoiles de 133 chambres, 3 restaurants, 2 bars, un golf 18 trous, une piscine extérieure et un espace bien-être."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Jeux et prestige",
+                        "description": "<p>Chez nous, le plaisir du jeu prend une dimension particulièrement riche grâce à une offre très complète au sein du Domaine de Divonne. Nous créons une expérience intense et élégante, pensée pour faire vivre à chaque visite un vrai moment de divertissement dans un cadre raffiné.<\/p> <br> <p>Notre casino réunit 245 machines à sous, ce qui nous permet d’offrir un univers de jeu vaste, vivant et toujours stimulant. Cette diversité donne à chacun la liberté de composer sa soirée selon son rythme, dans une atmosphère dynamique et immersive.<\/p> <br> <p>Nous mettons également à l’honneur les grands classiques du casino avec nos tables de Black Jack, nos tables de Roulette anglaise, ainsi que l’Ultimate Poker et le Hold’em Poker. Cette sélection renforce la profondeur de notre offre et permet de varier les sensations au fil de la soirée.<\/p> <br> <p>Chez nous, les jeux électroniques occupent aussi une place de choix avec la roulette électronique. Cette présence complète parfaitement l’ensemble et donne à notre établissement une touche encore plus fluide et contemporaine.<\/p> <br> <p>Nous proposons en plus un salon VIP poker, qui apporte une dimension supplémentaire à notre univers de jeu. Cet espace participe à l’identité premium de notre casino et enrichit l’expérience de celles et ceux qui recherchent une ambiance encore plus exclusive.<\/p> <br> <p>Notre établissement s’intègre dans un domaine reconnu pour son style Art Déco, son atmosphère luxueuse et son environnement soigné. Cette personnalité forte donne à chaque moment passé chez nous une tonalité à la fois élégante, actuelle et singulière.<\/p> <br> <p>Nous faisons du jeu un véritable art de vivre, avec une offre qui associe variété, confort et intensité. Chez nous, tout est réuni pour passer facilement d’une envie de machines à sous à une partie de poker ou de roulette dans le même élan.<\/p> <br> <p>Notre casino s’impose ainsi comme une adresse de choix pour celles et ceux qui recherchent une expérience complète, vibrante et haut de gamme. Nous cultivons un esprit de plaisir et de raffinement qui rend chaque visite mémorable.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Élément\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Informations confirmées\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Machines à sous\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    245 machines à sous\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Jeux de table\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Tables de Black Jack, tables de Roulette anglaise, Ultimate Poker et Hold'em Poker\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Jeux électroniques\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Roulette électronique\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Espace poker\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Salon VIP poker\n  <\/td>\n<\/tr>\n<\/table> <\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Détente et saveurs",
+                        "description": "<p>Chez nous, l’expérience va bien au-delà du jeu grâce à tout l’univers du Domaine de Divonne. Nous faisons vivre à nos visiteurs une sortie complète, où le casino s’inscrit dans un ensemble élégant dédié à la détente, à la gastronomie et au confort.<\/p> <br> <p>Notre établissement profite d’une situation privilégiée à Divonne-les-Bains, tout près de la frontière suisse et du lac Léman. Cette localisation rend l’accès particulièrement agréable et permet de rejoindre facilement notre domaine depuis Genève et de nombreuses villes d’Europe.<\/p> <br> <p>Nous prolongeons le plaisir avec une offre gourmande généreuse, puisque le Domaine de Divonne réunit 3 restaurants et 2 bars aux ambiances personnalisées. Cette richesse permet de vivre chez nous plusieurs moments différents dans une même adresse, du déjeuner raffiné au verre en soirée.<\/p> <br> <p>Notre restaurant La Coupole apporte une touche particulièrement séduisante à l’ensemble. Situé au cœur de la salle des machines à sous, il propose un espace raffiné et calme pour les déjeuners et les dîners, avec un service assuré 7 jours sur 7.<\/p> <br> <p>Nous proposons aussi le Bar des Présidents, parfait pour profiter d’un moment de détente dans une ambiance intimiste et raffinée. Sa carte riche et variée, accompagnée de cocktails du moment, contribue à faire de notre domaine un lieu aussi agréable à savourer qu’à découvrir.<\/p> <br> <p>Notre salon Léman ajoute une dimension encore plus conviviale grâce à ses grands brunchs du dimanche. Dans ce majestueux salon Art Déco de 500 m², nous créons un rendez-vous élégant et chaleureux, prolongé aux beaux jours par une terrasse privée avec vue sur le parc du Grand Hôtel et sur les Alpes.<\/p> <br> <p>Chez nous, le confort se poursuit aussi avec le Grand Hôtel du Domaine de Divonne, un établissement 4 étoiles de 133 chambres dont 11 suites. Cet ensemble donne à notre casino un vrai supplément d’attrait pour celles et ceux qui souhaitent prolonger leur expérience dans un cadre haut de gamme.<\/p> <br> <p>Nous réunissons enfin de nombreux plaisirs complémentaires avec un espace bien-être, une piscine extérieure et un golf 18 trous. Notre établissement s’affirme ainsi comme une destination complète, où le jeu rencontre naturellement la gastronomie, le séjour et la détente.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Repère pratique\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Informations confirmées\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Localisation\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Avenue des Thermes, Divonne-les-Bains ; proche de la frontière suisse et du lac Léman ; accès pratique via l’autoroute suisse A1, sortie 10\/Coppet\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Accès\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Le Domaine de Divonne se situe à 15 minutes de l’Aéroport international de Genève et à 25 minutes de la gare TGV\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Restauration\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    3 restaurants et 2 bars au Domaine de Divonne\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Restaurant La Coupole\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Situé au cœur de la salle des machines à sous ; carte 7j\/7 de 12h à 14h30 et de 19h à 23h, jusqu’à 23h30 le vendredi et le samedi\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bar des Présidents\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Carte bar chaque jour de 14h30 à minuit\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Grand Hôtel\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Hôtel 4 étoiles de 133 chambres dont 11 suites\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Loisirs du domaine\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Espace bien-être, piscine extérieure et golf 18 trous\n  <\/td>\n<\/tr>\n<\/table> <\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se situe votre casino ?",
+                            "answer": "Nous sommes situés au Domaine de Divonne, Avenue des Thermes, 01220 Divonne-les-Bains."
+                        },
+                        {
+                            "title": "Quels jeux proposez-vous ?",
+                            "answer": "Nous proposons 210 machines à sous, 40 postes de roulette électronique, 7 roulettes anglaises, 3 tables de Black Jack, 1 table d’Ultimate Poker et 3 tables de poker dédiées à l’Ultimate Texas Hold’em, au Texas Hold’em cash game et à l’Omaha Poker."
+                        },
+                        {
+                            "title": "Quand accueillez-vous vos clients ?",
+                            "answer": "Nous sommes ouverts tous les jours."
+                        },
+                        {
+                            "title": "L’entrée est-elle gratuite ?",
+                            "answer": "Oui. L’admission est gratuite pour les clients de plus de 18 ans sur présentation d’une pièce d’identité valide ou de la carte PlayersPlus."
+                        },
+                        {
+                            "title": "Vos clients peuvent-ils se restaurer sur place ?",
+                            "answer": "Oui. Notre nouveau restaurant La Coupole s’inspire de l’esprit Art déco et accueille nos clients dans une atmosphère sophistiquée avec près de 100 couverts."
+                        },
+                        {
+                            "title": "Que peuvent encore apprécier nos clients au Domaine de Divonne ?",
+                            "answer": "Nos clients peuvent également profiter d’un hôtel 4 étoiles de 133 chambres, de 3 restaurants, de 2 bars, d’un golf 18 trous, d’une piscine extérieure et d’un espace bien-être."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
